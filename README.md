@@ -1,10 +1,10 @@
 # OAC_AB2_1
 Codigos Mips
 
-Equipe :
-Caio Teixeira da Silva ( Oac-A )
-Eliedisson Lima Silva ( Oac-A )
-Noemy Torres Pereira ( Oac-A )
+## Equipe :
+- Caio Teixeira da Silva ( Oac-A )
+- Eliedisson Lima Silva ( Oac-A )
+- Noemy Torres Pereira ( Oac-A )
 
 
 Vocês devem fazer o exercício em grupos de três pessoas e apresentar na próxima quinta-feira. Os modos de endereçamento na arquitetura do computador definem como os operandos são especificados nas instruções. Nessa atividade vocês devem implementar, usando ASSEMBLY MIPS: 
